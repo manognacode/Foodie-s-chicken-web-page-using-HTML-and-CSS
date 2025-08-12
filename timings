@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            font-size: 20px;
+            font-style: oblique;
+            
+        }
+        body{
+            background-image:url("500_F_191250449_pcOipBSOTdDkKIH8GQYdoMQzRAuMclSI.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            
+        }
+        h1{
+            color:darkred;
+            font-style: italic;
+            font-size: 30px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1><b>TIMINGS...</b></h1>
+    <img src="https://tse4.mm.bing.net/th?id=OIP.hG2wT4F4I6YhrMlSJxUjTwHaE7&pid=Api&P=0&h=180" alt="" height="400px" width="500px">
+    <p><b>Timings: </b>Opens 6 days in a week<br>Mon-Sat: 12pm to 10pm<br>Will be closed on sunday's</p>
+    <u> </u><br><br><br><br>
+    <p style="color:darkgreen" align="center" font-size="24px"><b>THANK YOU!!!</b></p>
+    <p style="color:darkviolet" align="center" font-size="24px"><b>VISIT AGAIN...</b></p>
+    <a href="C:\Users\msred\Desktop\html\htmltask.html"><button>Back</button></a>
+    
+
+</body>
+</html>
