@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            color: crimson;
+            font-style: italic;
+            font-size: 28px;
+            text-align: center;
+        }
+        body{
+            background-image:url("500_F_191250449_pcOipBSOTdDkKIH8GQYdoMQzRAuMclSI.jpgn");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            
+        }
+    </style>
+</head>
+<body>
+    <h1>CONTACT US</h1>
+    <form>
+        <label for="Name">Name : </label>
+        <input type="text" id="Name" value="Manogna" readonly><br><br>
+        <label for="gmail">gmail : </label>
+        <input type="email" id="gmail" value="saimanogna123@gmail.com" readonly><br><br>
+        <label for="phone">phone : </label>
+        <input type="tel" id="phone" value="9642312707" readonly><br><br>
+        <button>Submit</button>
+        <button>Cancel</button><br>
+        <video src="C:\Users\msred\Downloads\videoplayback.mp4" controls muted width="500px" height="500px" poster="https://tse3.mm.bing.net/th?id=OIP.A2ElLZz7JXge9aCIZp9NBgHaEK&pid=Api&P=0&h=180" preload="none"></video><br><br>
+
+    <button><a href="C:\Users\msred\Desktop\html\htmltask.html">Back</a></button>
+    </form>
+</body>
+</html>
