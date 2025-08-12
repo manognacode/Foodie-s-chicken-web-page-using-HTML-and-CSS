@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Foodie's Chicken</title>
+    <style>
+        .Image {
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            gap:20px;
+        }
+        .Image img {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .Description {
+            max-width: 500px;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        h1{
+            color:black;
+            font-style: italic;
+            font-size: 30px;
+            text-align: center;
+        }
+        body{
+            background-image:url("500_F_191250449_pcOipBSOTdDkKIH8GQYdoMQzRAuMclSI.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: block;
+            margin: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style=color:red>About Foodie's Chicken</h1>
+    <div class="Image">
+        <img src="">
+        <div class="Description">
+            <h2><b>Description</b></h2>
+            <p>Welcome to foodie's chicken.The name itself reflects that all the items in the menu has main ingredient as everyone's favorite chicken.After eating you'll love it for sure.Eat well,share snaps,leave with heart full of happiness and stomach full of satisfaction...</p>
+        </div>
+    </div>
+    <h2 style="font-size: 24px; color:darkblue"><b>Location of foodie's chicken</b></h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15552.107462065971!2d77.6631907871582!3d12.970132700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae135484305d83%3A0x70b25e38774799eb!2sFoods%20Court%3A%20A%20Multi%20Brand%20Cafe!5e0!3m2!1sen!2sin!4v1749651261850!5m2!1sen!2sin" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br><br>
+    <label><b>Street: </b></label>
+    <input type="text" value="Rajajinagar" readonly><br><br>
+    <label><b>Road: </b></label>
+    <input type="text" value="Rajkumar road" readonly><br><br>
+    <label><b>City: </b></label>
+    <input type="text" value="Bangalore" readonly><br><br>
+    <a href="C:\Users\msred\Desktop\html\htmltask.html"><button>Back</button></a>
+
+</body>
+</html>
