@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image:url("500_F_191250449_pcOipBSOTdDkKIH8GQYdoMQzRAuMclSI.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            
+        }
+        h1{
+            text-align: center;
+            color: darkolivegreen;
+            font-style: oblique;
+            font-size: 28px;
+        }
+        a{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1><b>WELCOME TO FOODIE'S CHICKEN</b></h1>
+    <ul>
+        <li><a href="C:\Users\msred\Desktop\html\aboutcourt.html">About Foodie's Chicken</a></li>
+        <li><a href="C:\Users\msred\Desktop\html\menu.html">Menu</a></li>
+        <li><a href="C:\Users\msred\Desktop\html\courthours.html">Timings</a></li>
+        <li><a href="C:\Users\msred\Desktop\html\contact.html">Contact Us</a></li>
+        <li><a href="C:\Users\msred\Desktop\html\login.html">Logout</a></li>
+    </ul>
+    <img src="c:\Users\msred\Documents\WhatsApp Image 2025-06-18 at 10.42.56_4a05285f.jpg" width="700px" height="700px">
+</body>
+</html>
